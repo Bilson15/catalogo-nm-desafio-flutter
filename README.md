@@ -1,6 +1,6 @@
 <h1 align="center">desafio_flutter</h1> 
 
-Desafio em flutter para aplicação dos conhecimento adquiridos.
+Projeto desafio para aplicar conhecimento adquiridos no framework flutter.
 
 <h1 align="center">App</h1> 
 <div align="center">
