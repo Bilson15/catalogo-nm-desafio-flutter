@@ -4,13 +4,19 @@ Desafio em flutter para aplicação dos conhecimento adquiridos.
 
 <h1 align="center">App</h1> 
 <div align="center">
-  <img src="./assets-readme/v1.jpg" alt="Tela" heigth="700" width="450" title="Tela"></img>
-  <img src="./assets-readme/v2.jpg" alt="Tela" heigth="700" width="450" title="Tela"></img>
-  <img src="./assets-readme/v3.jpg" alt="Tela" heigth="700" width="450" title="Tela"></img>
-  <img src="./assets-readme/v4.jpg" alt="Tela" heigth="700" width="450" title="Tela"></img>
-  <img src="./assets-readme/v5.jpg" alt="Tela" heigth="700" width="450" title="Tela"></img>
-  <img src="./assets-readme/v6.jpg" alt="Tela" heigth="700" width="450" title="Tela"></img>
-  <img src="./assets-readme/v7.jpg" alt="Tela" heigth="700" width="450" title="Tela"></img>
+  ##Splashsreen
+  <img src="./assets-readme/v1.jpg" alt="Tela" heigth="700" width="450" title="Tela"></img><br>
+  ##Login
+  <img src="./assets-readme/v2.jpg" alt="Tela" heigth="700" width="450" title="Tela"></img><br>
+  <img src="./assets-readme/v3.jpg" alt="Tela" heigth="700" width="450" title="Tela"></img><br>
+  ##Catálogo
+  <img src="./assets-readme/v4.jpg" alt="Tela" heigth="700" width="450" title="Tela"></img><br>
+  ##Fim da página
+  <img src="./assets-readme/v5.jpg" alt="Tela" heigth="700" width="450" title="Tela"></img><br>
+  ##Menu
+  <img src="./assets-readme/v6.jpg" alt="Tela" heigth="700" width="450" title="Tela"></img><br>
+  ##Especificações do produto com carrossel das fotos
+  <img src="./assets-readme/v7.jpg" alt="Tela" heigth="700" width="450" title="Tela"></img><br>
 </div>
 
 <h1 align="center">Funcionamento</h1>
